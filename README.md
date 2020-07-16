@@ -1,0 +1,1 @@
+Este é o repositório da disciplina Visão Computacional no Melhoramento de Plantas oferecida pelo Programa de Pós Graduação em Genética e Melhoramento de Plantas da Universidade Federal de Lavras - UFLA.
