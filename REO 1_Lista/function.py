@@ -1,5 +1,3 @@
-import os
-os.chdir('D:\\My Drive\\Arquivos-notebook\\Python-projects\\maturação')
 def med_var_amostral(dado):
     soma=0
     v1=0
