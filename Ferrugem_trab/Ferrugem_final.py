@@ -67,11 +67,6 @@ for imagem in filenames:
             razao_lesao = 0
         else:
             razao_lesao = ((area_lesao / area) * 100).__round__(2)
-        print(razao_lesao)
-        cv2.namedWindow('test',cv2.WINDOW_NORMAL)
-        cv2.imshow('test',obj)
-        cv2.waitKey(0)
-        cv2.destroyAllWindows()
         nome_leg = nome_legenda[:-4]
         dimen += [[str(nome_leg),str(i + 1), str(h), str(w), str(area), str(razao),
                    str(area_lesao), str(contorno), str(razao_lesao),'CLAUDIO']]
